@@ -43,7 +43,7 @@ const AboutMe = () => {
                   <li className="name-style">Age</li>
                   <li>:</li>
                   <li>
-                    <p>24</p>
+                    <p>27</p>
                   </li>
                 </ul>
                 <ul className="single-info">
