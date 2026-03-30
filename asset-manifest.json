@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba045f70.css",
+    "main.js": "/static/js/main.f96f9a95.js",
+    "static/js/787.8050ebec.chunk.js": "/static/js/787.8050ebec.chunk.js",
+    "static/media/store.png": "/static/media/store.32c3c10051535571890c.png",
+    "static/media/tcm.png": "/static/media/tcm.3c9de40224d38a9dd7a4.png",
+    "static/media/meyco.png": "/static/media/meyco.593cdd4718f838597b16.png",
+    "index.html": "/index.html",
+    "main.ba045f70.css.map": "/static/css/main.ba045f70.css.map",
+    "main.f96f9a95.js.map": "/static/js/main.f96f9a95.js.map",
+    "787.8050ebec.chunk.js.map": "/static/js/787.8050ebec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba045f70.css",
+    "static/js/main.f96f9a95.js"
+  ]
+}
